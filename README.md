@@ -12,8 +12,6 @@
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
-Shoutout to [Brad Garropy][brad] for the inspiration!
-
 [website]: https://azeemkhan.engineer
 [twitter]: https://twitter.com/emazeemkhan
 [instagram]: https://instagram.com/az33m_kha9
