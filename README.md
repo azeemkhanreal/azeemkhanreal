@@ -9,7 +9,6 @@
 
 🏡 [website][website] **|** 
 🐦 [twitter][twitter] **|** 
-📦 [npm][npm] **|** 
 📷 [instagram][instagram] **|** 
 👔 [linkedin][linkedin]
 
