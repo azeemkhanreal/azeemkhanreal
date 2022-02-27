@@ -1,16 +1,21 @@
-### Hi there 👋
+## Hi, I'm Azeem Khan 👋 I'm a Full Stack Developer
 
-<!--
-**azeemkhanreal/azeemkhanreal** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently seeking a full time job!
+- 🌱 I’m currently learning Next.js
+- 💬 Ask me about JavaScript, React.js, Node.js, MongoDB and building cool sh*t
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I can solve a Rubik's cube in under a minute!
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🏡 [website][website] **|** 
+🐦 [twitter][twitter] **|** 
+📦 [npm][npm] **|** 
+📷 [instagram][instagram] **|** 
+👔 [linkedin][linkedin]
+
+Shoutout to [Brad Garropy][brad] for the inspiration!
+
+[website]: https://azeemkhan.engineer
+[twitter]: https://twitter.com/emazeemkhan
+[instagram]: https://instagram.com/az33m_kha9
+[linkedin]: https://linkedin.com/in/azeemkhanreal
